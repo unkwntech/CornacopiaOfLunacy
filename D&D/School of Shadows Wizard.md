@@ -1,8 +1,10 @@
 # School of Shadows Wizard
 
+Many look to the stars for inspiration, you however look to the shadows. As a member of the School of Shadows you seek to hide yourself your actions, and sometimes your intentions.  While some find themselves suited lay in wait using the shadows as cover, others of your ilk find the shadows a place to obtain information and seek out knowledge.
+
 ## Shadow's Apprentice
 
-Beginning when you select this school at 2nd level, you gain darkvision to a range of 60 feet, or gain an additional 60 feet if you already have darkvision. You gain proficiency in stealth.  You gain proficiency in any intimidation, pursuasion or deception checks that rely on your use of illusion.
+Beginning when you select this school at 2nd level, you gain darkvision to a range of 60 feet, or gain an additional 60 feet if you already have darkvision. You gain proficiency in stealth.  You gain proficiency in any intimidation, persuasion or deception checks that rely on your use of illusion.
 
 ### Shadow's Disguise
 
