@@ -1,14 +1,14 @@
 # School of Shadows Wizard
 
-Many look to the stars for inspiration, you however look to the shadows. As a member of the School of Shadows you seek to hide yourself your actions, and sometimes your intentions.  While some find themselves suited lay in wait using the shadows as cover, others of your ilk find the shadows a place to obtain information and seek out knowledge.  Most consider light to be a fundamental component of the Weave practitioners of shadow know that the shadows are not merely a the absence of light but are themselves alive!
+Many look to the stars for inspiratio;, you, however, look to the shadows. As a member of the School of Shadows, you seek to obfuscate yourself, your actions, and sometimes your intentions.  While some find themselves suited to lie in wait using the shadows as cover, others of your ilk find the shadows a place to obtain information and seek out knowledge.  Most consider light to be a fundamental component of the Weave - practitioners of the School of Shadows know that the shadows are not merely a the absence of light but are themselves alive!
 
 ## Shadow's Apprentice
 
-Beginning when you select this school at 2nd level, you gain darkvision to a range of 60 feet, or gain an additional 60 feet if you already have darkvision. You gain proficiency in stealth.  You gain proficiency in any intimidation, persuasion or deception checks that rely on your use of illusion.
+Beginning when you select this school at 2nd level, you gain darkvision to a range of 60 feet, or gain an additional 30 feet if you already have darkvision. In addition, you gain proficiency in stealth, and you apply your proficiency modifier in any intimidation, persuasion or deception checks that rely on your use of illusion magic.
 
 ### Familiarity of Shadows
 
-When you choose this school at 2nd level, you learn the spell Find Familiar this spell is always prepared and does not count against your count of known spells.  You may summon a Shadow as your familiar.  In addition you gain advantage in stealth checks if your shadow familiar assists you.
+When you choose this school at 2nd level, you learn the spell Find Familiar. This spell is always prepared and does not count against your number of prepared spells.  You may summon a Shadow as your familiar.  In addition, your Shadow familiar can use the Help action to provide advantage on any stealth rolls you may make when in dim light or darkness.
 
 ## The Darkening Path
 
