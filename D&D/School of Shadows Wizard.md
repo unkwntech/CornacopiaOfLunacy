@@ -58,3 +58,6 @@ Beginning at 10th level...
 
 By 14th level...
 
+## Citations
+
+**The Darkening Path** was copied from https://www.dndbeyond.com/subclasses/1044309-shadow-bender then modified.
