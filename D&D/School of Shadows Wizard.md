@@ -1,6 +1,6 @@
 # School of Shadows Wizard
 
-Many look to the stars for inspiratio;, you, however, look to the shadows. As a member of the School of Shadows, you seek to obfuscate yourself, your actions, and sometimes your intentions.  While some find themselves suited to lie in wait using the shadows as cover, others of your ilk find the shadows a place to obtain information and seek out knowledge.  Most consider light to be a fundamental component of the Weave - practitioners of the School of Shadows know that the shadows are not merely a the absence of light but are themselves alive!
+Many look to the stars for inspiration; you, however, look to the shadows. As a member of the School of Shadows, you seek to obfuscate yourself, your actions, and sometimes your intentions.  While some find themselves suited to lie in wait using the shadows as cover, others of your ilk find the shadows a place to obtain information and seek out knowledge.  Most consider light to be a fundamental component of the Weave - practitioners of the School of Shadows know that the shadows are not merely a the absence of light but are themselves alive!
 
 ## Shadow's Apprentice
 
