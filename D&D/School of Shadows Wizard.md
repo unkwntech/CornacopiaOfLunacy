@@ -50,9 +50,9 @@ Darkness feels no pain. You may reroll a failed concentration save for a spell.
 
 As a bonus action, you can magically turn invisible for up to 1 minute or until you enter bright light, you attack, make a damage roll, or force someone to make a saving throw.
 
-## Advanced School Feature
+## Shadow's Sight
 
-Beginning at 10th level...
+Beginning at 10th level, your familiarity with the shadows has allowed you to delve deeply into the dark places of the world. Once per day you may cast Scrying without having prepared it, using the shadows as your focus. You may only scry upon creatures or places that have shadows around them; even a small shadow will do. The invisible sensor created by the Scrying spell must be one of these shadows. If your target or location is within range of effect of a magical light spell, your scrying automatically fails. If any light source completely banishes the shadow within which your sensor resides, and there is no shadow within 10 feet of the target, the spell ends.
 
 ## Expert School Feature
 
