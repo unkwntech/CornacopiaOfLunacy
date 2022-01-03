@@ -52,11 +52,11 @@ As a bonus action, you can magically turn invisible for up to 1 minute or until 
 
 ## Shadow's Sight
 
-Beginning at 10th level, your familiarity with the shadows has allowed you to delve deeply into the dark places of the world. Once per day you may cast Scrying without having prepared it, using the shadows as your focus. You may only scry upon creatures or places that have shadows around them; even a small shadow will do. The invisible sensor created by the Scrying spell must be one of these shadows. If your target or location is within range of effect of a magical light spell, your scrying automatically fails. If any light source completely banishes the shadow within which your sensor resides, and there is no shadow within 10 feet of the target, the spell ends.
+Beginning at 10th level, your familiarity with the shadows has allowed you to delve deeply into the dark places of the world. Once per day you may cast Scrying without having prepared it, using the shadows as your focus. You may only scry upon creatures or places that have shadows around them; even a small shadow will do. The invisible sensor created by the Scrying spell must be one of these shadows. If your target or location is within range of effect of a magical light spell, your scrying automatically fails, and you take 3d6 points of radiant damage as the light sears your eyes. If any light source completely banishes the shadow within which your sensor resides, and there is no shadow within 10 feet of the target, the spell ends, and you take the aforementioned damage.
 
-## Expert School Feature
+## Shadow's Reach
 
-By 14th level...
+By 14th level, your mastery of the shadows is complete - you can now use the shadows to travel across the Material and Shadowfell planes. Once per day, you may cast Plane Shift without using a spell slot, using the shadows as your focus and components. You may only travel to the Shadowfell or Material plane in this way, and you may not travel to a place on the same plane of existence upon which you currently reside. You must enter and exit a shadow using this ability - an area in the effect of any magical light spell will immediately fail, preventing you from using this ability again until the next day. The intensity of that light causes you to take 5d6 radiant damage as the light sears your eyes. Teleportation Circles, provided you know the sigil, are the only exception to this rule regarding light. All other uses of Planeshift apply as normal, provided the locations are on either the Material plane or the Shadowfell.
 
 ## Citations
 
