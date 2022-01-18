@@ -58,6 +58,8 @@ Beginning at 10th level, your familiarity with the shadows has allowed you to de
 
 By 14th level, your mastery of the shadows is complete - you can now use the shadows to travel across the Material(or Home) and Shadowfell planes. Once per day, you may cast Plane Shift without using a spell slot, using the shadows as your focus and components. You may only travel to the Shadowfell or Material(or Home) plane in this way, and you may not travel to a place on the same plane of existence upon which you currently reside. You must enter and exit a shadow using this ability - an area in the effect of any magical light spell will immediately fail, preventing you from using this ability again until the next day. The intensity of that light causes you to take 5d6 radiant damage as the light sears your eyes. Teleportation Circles, provided you know the sigil, are the only exception to this rule regarding light. All other uses of Planeshift apply as normal, provided the locations are on either the Material(or Home) plane or the Shadowfell.
 
+Additionally, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action, you can teleport up to 120 feet to an unoccupied space you can see that is also in dim light or darkness.
+
 ## Citations
 
 **The Darkening Path** was copied from https://www.dndbeyond.com/subclasses/1044309-shadow-bender then modified.
