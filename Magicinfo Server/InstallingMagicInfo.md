@@ -12,7 +12,13 @@ The instructions below are valid if you are installing MagicInfo 9 and you do no
 
 ## Database Install
 
-On the system with SQL Server or SQL Server Express, run the MagicInfo installer.  When prompted (https://i.imgur.com/9jTQtVi.png) chose the "Advanced Install", "MSSQL" and "DB" options.  Continue with the installer until prompted for the database information (https://i.imgur.com/xsMPoiH.png). Enter the databse connection information and continue.  When prompted for the WAS IP enter the IP address of the intended application server.  The remainin prompts, such as "Server Administrator Password" all applly to the web application, and not the host, this is where you are creating the application's admin account.
+On the system with SQL Server or SQL Server Express, run the MagicInfo installer.  When prompted chose the "Advanced Install", "MSSQL" and "DB" options.
+
+![Screenshot of installer showing the "Setup Type" page](https://raw.githubusercontent.com/unkwntech/CornucopiaOfLunacy/main/Magicinfo%20Server/db_setup_options.png)
+
+Continue with the installer until prompted for the database information. Enter the databse connection information and continue.  When prompted for the WAS IP enter the IP address of the intended application server.  The remainin prompts, such as "Server Administrator Password" all applly to the web application, and not the host, this is where you are creating the application's admin account.
+
+![Screenshot of the installer showing database settings page](https://raw.githubusercontent.com/unkwntech/CornucopiaOfLunacy/main/Magicinfo%20Server/db_config.png)
 
 When the installer is finished it will generate some files in the install location (Default: `C:\MagicInfo Premium\`), this should consist of 4 `.sql` files and a `.bat` file.  Connect to the SQL Server and run the `.sql` scripts in the following order
 
@@ -22,4 +28,8 @@ When the installer is finished it will generate some files in the install locati
 
 ## Application Install
 
-Run the MagicInfo installer, when prompted (https://i.imgur.com/Upfh2zb.png) choose the "Advanced Install", "MSSQL", and "WAS" options. When prompted for the database information provide the database connection details.  The field that prompts for "MSSQL Server Password" is asking for an SA account, since the database is already created there is no need for this.  However, the installer requires it, use the database user password and complete the install.
+Run the MagicInfo installer, when prompted choose the "Advanced Install", "MSSQL", and "WAS" options.
+
+![Screenshot of installer showing the "Setup Type" page](https://raw.githubusercontent.com/unkwntech/CornucopiaOfLunacy/main/Magicinfo%20Server/was_setup_options.png)
+
+When prompted for the database information provide the database connection details.  The field that prompts for "MSSQL Server Password" is asking for an SA account, since the database is already created there is no need for this.  However, the installer requires it, use the database user password and complete the install.
