@@ -22,3 +22,14 @@ To use these files simply download whichever is appropriate and then run the fil
 [With Administrator Privileges / For All Users](vscodecontextmenu_allusers.reg)
 
 [Without Administrator Privileges / For only Current User](vscodecontextmenu_currentuser.reg)
+
+## Examples
+
+### Click on folder
+
+    ![GIF of clicking on a folder with the open with VSCode context menu](https://i.imgur.com/vez3ZHT.gif)
+
+### Click in folder background
+
+    ![GIF of clicking in the background of a folder with the open with VSCode context menu](https://i.imgur.com/AgG03C8.gif)
+    
