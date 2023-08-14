@@ -17,6 +17,8 @@
 
 > :warning: **Importing .reg files without understanding their contents is incredibly dangerous.**
 
+To use these files simply download whichever is appropriate and then run the file.
+
 [With Administrator Privileges / For All Users](vscodecontextmenu_allusers.reg)
 
 [Without Administrator Privileges / For only Current User](vscodecontextmenu_currentuser.reg)
