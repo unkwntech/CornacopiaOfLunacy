@@ -31,4 +31,4 @@ To use these files simply download whichever is appropriate and then run the fil
 
 ### Click in folder background
 
-![GIF of clicking in the background of a folder with the open with VSCode context menu](https://i.imgur.com/AgG03C8.gif)
+![GIF of clicking in the background of a folder with the open with VSCode context menu](https://i.imgur.com/YXzdI1V.gif)
